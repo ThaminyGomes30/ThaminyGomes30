@@ -1,12 +1,20 @@
 ### Olá eu sou a Thaminy Gomes estudante de ciência de dados 👋
 
+<p align="left" dir="auto">
 🔭 Atualmente estou trabalhando como Analista de Suporte N3
+</p>
+<p align="left" dir="auto">
 📊 Estou estudando  power bi integrado ao Azure para um melhor entendimento sobre ciência de dados
+</p>
+<p align="left" dir="auto">
 👩‍💻 Aqui compartilho meus aprendizados e conhecimentos
-☕🎮 só acordo com café completo, adoro games (mas sou muito ruim em todos rsrsrs)
-
-📭 Logo abaixo tem os links caso queira entrar em contato,, adoro compartilhar conhecimento e ouvir também 😉 
-
+</p>
+<p align="left" dir="auto">
+☕🎮 só acordo depois de um bom café c, adoro games (mas sou muito ruim em todos rsrsrs), viciada em livros 📚
+</p>
+<p align="left" dir="auto">
+📭 Logo abaixo tem os links caso queira entrar em contato, adoro compartilhar conhecimento e ouvir também 😉 
+</p>
 
 <div>
     <img align="right" alt="Rafa-Ts" width="250px" src="https://cdn.discordapp.com/attachments/1030605064353611878/1208224972326043708/WhatsApp_Image_2024-02-16_at_21.30.34.jpeg?ex=65e28231&is=65d00d31&hm=8353a58b0a46561881bf7741c503be60cc2be136b924dc995cbd309f76793b69&">
