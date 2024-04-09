@@ -17,7 +17,7 @@
 </p>
 
 <div>
-    <img align="right" alt="Rafa-Ts" width="250px" src="https://cdn.discordapp.com/attachments/1030605064353611878/1208224972326043708/WhatsApp_Image_2024-02-16_at_21.30.34.jpeg?ex=65e28231&is=65d00d31&hm=8353a58b0a46561881bf7741c503be60cc2be136b924dc995cbd309f76793b69&">
+    <img align="right" alt="Rafa-Ts" width="250px" src="https://cdn.discordapp.com/attachments/1030605064353611878/1208224972326043708/WhatsApp_Image_2024-02-16_at_21.30.34.jpeg?ex=66231bb1&is=6610a6b1&hm=c37258e2b64ff9a00f6ae00ee6f5694e8fd05bc7b07aae9b2ef941c7b179e24b&">
 </div>
 
 
