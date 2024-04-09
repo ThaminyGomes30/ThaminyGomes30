@@ -23,8 +23,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.discordapp.com/attachments/1030605064353611878/1208241912457469972/image.png?ex=65e291f7&is=65d01cf7&hm=75ded2f48da1d0390e68bfb530740bd5f3730630f38d3fe8986c2bd4c7c56d3b&">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> 
 </div>
   
 
