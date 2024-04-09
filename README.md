@@ -10,7 +10,7 @@
 👩‍💻 Aqui compartilho meus aprendizados e conhecimentos
 </p>
 <p align="left" dir="auto">
-☕🎮 só acordo depois de um bom café , adoro games (mas sou muito ruim em todos rsrsrs), viciada em livros 📚
+☕🎮 só acordo depois de um bom café , adoro games (não sou expert mas aprendo rápido e vicio também), viciada em livros 📚
 </p>
 <p align="left" dir="auto">
 📭 Logo abaixo tem os links caso queira entrar em contato, adoro compartilhar conhecimento e ouvir também 😉 
